@@ -14,10 +14,12 @@ namespace Gambler
             if (stake == odds)
             {
                 Console.WriteLine("Gambler Won ");
+                stake++;
             }
             else
             {
                 Console.WriteLine("Gambler Loose");
+                stake--;
             }
 
             Console.WriteLine("game per stake {0} game per bet {1}", stake, bet);
