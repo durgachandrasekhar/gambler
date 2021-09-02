@@ -1,0 +1,14 @@
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\bin\Debug\netcoreapp3.1\Gambler.exe
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\bin\Debug\netcoreapp3.1\Gambler.deps.json
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\bin\Debug\netcoreapp3.1\Gambler.runtimeconfig.json
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\bin\Debug\netcoreapp3.1\Gambler.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\bin\Debug\netcoreapp3.1\Gambler.dll
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\bin\Debug\netcoreapp3.1\Gambler.pdb
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.dll
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.pdb
+C:\Users\SHIVA KUMAR\source\repos\Gambler\Gambler\obj\Debug\netcoreapp3.1\Gambler.genruntimeconfig.cache
